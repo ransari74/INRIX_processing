@@ -19,4 +19,4 @@ The attibutes INRIX provides in traffic datasets are:
 11.Pct Score10	Percentage of the segment minutes based on the reference ‘free flow’ speed\
 ''
 
-When you donwload data with INRIX, INRIX compresses several Segment in each Zip file. In each Zip file, you should find the CSV file o extract traffic data.
+When you donwload data with INRIX, INRIX compresses several Segment in each Zip file. In each Zip file, you should find the CSV file and extract traffic data. However, extracting file will occupy lots of space, so, We coded the program to extract file internaly and read data.
